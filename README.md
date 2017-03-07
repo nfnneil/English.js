@@ -53,7 +53,7 @@ It will print the most common nouns with the most common verbs into console.
 
 ##mostCommonWords.getAll()
 
-This functio will return an array of all parts of speech: nouns, verbs, adjectives,
+This function will return an array of all parts of speech: nouns, verbs, adjectives,
 adverbs, and pronouns.
 
 ###Example:
